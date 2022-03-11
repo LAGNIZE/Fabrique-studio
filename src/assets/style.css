@@ -1,0 +1,27 @@
+.flex-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.el-marg {
+    margin: 20px;
+}
+
+.el-side-marg {
+    margin: 0 10px 0 10px;
+}
+
+.deleteRange, .deleteComp {
+    cursor: pointer;
+}
+
+#app {
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin: 60px auto 0 auto;
+    border: 1px solid;
+    width: 600px;
+  }
